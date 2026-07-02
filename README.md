@@ -144,7 +144,3 @@ NEXT_PUBLIC_APP_NAME="ChatHacker Docs"          # Nome da aplicação
 - Multi-tenant por usuário ou empresa.
 - Testes com Jest/Supertest.
 - Deploy na Vercel ou AWS.
-
-## Como explicar em entrevista
-
-> Desenvolvi uma aplicação Full Stack com Next.js, TypeScript, Prisma e IA generativa para consulta contextual de documentos. A solução implementa um fluxo de RAG: ingestão de conteúdo, chunking, recuperação de contexto e geração de resposta com fonte rastreável. Comecei com uma busca lexical para reduzir dependências e acelerar o MVP, mas deixei a arquitetura preparada para evoluir para embeddings e vector database como pgvector ou Qdrant.
