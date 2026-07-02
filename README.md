@@ -8,6 +8,8 @@ Plataforma Full Stack para consulta inteligente de documentos e links usando uma
 
 Este projeto foi criado para demonstrar domínio de desenvolvimento Full Stack moderno e aplicação prática de IA generativa em um problema real: permitir que usuários consultem documentos, páginas e bases de conhecimento sem depender apenas da memória do modelo.
 
+<img src="docs/2.jpg">
+
 ## Stack
 
 - Next.js 15 — front-end, rotas de API e SSR no mesmo projeto.
